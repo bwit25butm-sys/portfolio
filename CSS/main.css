@@ -8,6 +8,7 @@ nav{
     color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: bold;
+    height: 70px;
     text-decoration: none;
     justify-content: space-between;
     box-shadow: 1px 10px 20px 0px rgba(0, 0, 0, 0.5);
@@ -20,18 +21,21 @@ nav{
 .menu a{
     color: rgb(0, 0, 0);
     text-decoration: none;
-    padding: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
     cursor: pointer;
     size: 30px;
     transition: all 0.3s linear;
 }
 .menu a:hover{
     color: rgb(105, 105, 110);
-    font-size: 35px;
+    font-size: 32px;
 }
 .logo img{
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
     /* margin: 5px; */
+    margin-top: 10px;
+    margin-left: 10px;
     border-radius: 2px;
 }
