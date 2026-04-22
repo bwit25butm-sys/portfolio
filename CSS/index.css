@@ -1,0 +1,13 @@
+h3{
+    color: rgb(246, 255, 0);
+    background-color: rgb(255, 30, 0);
+    height: fit-content;
+    width: 40px;
+    padding: 10px 20px 30px 40px;
+    margin: 0px;
+}
+h1, h2{
+    background-color: rgb(17, 255, 0);
+    margin: 0px;
+    /* padding: 10px; */
+}

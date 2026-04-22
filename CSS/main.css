@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: space-between;
+    box-shadow: 1px 10px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.menu{
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    font-size: 30px;
+}
+.menu a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+.menu a:hover{
+    color: rgb(105, 105, 110);
+    font-size: 35px;
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+    /* margin: 5px; */
+    border-radius: 2px;
+}
