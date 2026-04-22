@@ -22,6 +22,7 @@ nav{
     text-decoration: none;
     padding: 10px;
     cursor: pointer;
+    size: 30px;
     transition: all 0.3s linear;
 }
 .menu a:hover{
