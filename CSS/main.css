@@ -39,3 +39,20 @@ nav{
     margin-left: 10px;
     border-radius: 2px;
 }
+.content{
+    background-color: rgb(206, 27, 27);
+    height: 400px;
+    width: 100%;
+}
+.content img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.background{
+    height: 1000px;
+    width: 100%;
+    background-image: url(../resource/image/man.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
